@@ -7,3 +7,4 @@
 [苦肉(小说)-蔡凯歌](./self-injury(novel).txt)  
 [海龟汤/情境猜谜/是·不是游戏](./situation_puzzle.txt)  
 [易错读音/字词](./tricky-pronunciation.txt)  
+[小黑子只因美食菜单/蔡徐坤/鸡你太美/ikun美食菜单](./ikun-gourmet-food.txt)  
