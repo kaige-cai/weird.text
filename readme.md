@@ -10,3 +10,4 @@
 [小黑子只因美食菜单/蔡徐坤/鸡你太美/ikun美食菜单](./ikun-gourmet-food.txt)  
 [真理](./truth-quotes.txt)  
 [笑话/一句话脱口秀](./jokes.txt)  
+[AI绘画提示词](./stable-diffusion-keywords.txt)  
