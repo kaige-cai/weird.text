@@ -1,3 +1,12 @@
+Stable Diffusion 提示词(prompt)
+
+反向词(negative)：
+disfigured,(毁容)
+cartoon,(卡通)
+blurry,(模糊)
+nude,(裸体)
+
+正向词(positive)：
 asia,(亚洲)
 europe,(欧洲)
 beauty girl,(美女)
@@ -10,6 +19,7 @@ ancient costume,(古装)
 uniform,(制服)
 temptation,(诱惑)
 full body,(全身)
+close up,(特写)
 future tech,(未来科技)
 masterpiece,(杰作)
 best quality,(最佳质量)
